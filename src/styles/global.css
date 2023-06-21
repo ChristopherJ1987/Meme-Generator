@@ -21,6 +21,7 @@ main {
 }
 
 .header--image {
+    width: auto;
     height: 100%;
     margin-right: 6px;
 }
