@@ -60,5 +60,10 @@ main {
 }
 
 .meme--image {
+    width: 50%;
+    padding: 2rem;
+    display: block;
     max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
